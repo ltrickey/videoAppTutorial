@@ -52,6 +52,7 @@ class PlayVideoViewController: UIViewController {
 
 // MARK: - UIImagePickerControllerDelegate
 extension PlayVideoViewController: UIImagePickerControllerDelegate {
+
 }
 
 // MARK: - UINavigationControllerDelegate
